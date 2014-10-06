@@ -9,7 +9,7 @@ sharing all kinds of content through various networks.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Youtube channel: http://www.youtube.com/users/maximumcritrate 
 
 ### Contact me
 
