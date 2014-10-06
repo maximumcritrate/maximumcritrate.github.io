@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: New Blog Home
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I'm trying to make this my new home for blogging. I've done a blog on indie game development in the past and I'll try to migrate that over here. It includes content about developer conferences and indie games I've helped develop and I've seen others develop. Look forward to some great stuff I can put up here. Also there is some fabulous content I can put up here from my youtube channel at http://www.youtube.com/users/maximumcritrate see you there.
