@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We write about, review, and play games. Our goal is to provide insight and theorycraft about game design and art. We'll be 
+sharing all kinds of content through various networks.
 
 ### More Information
 
@@ -12,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[maximumcritrate@gmail.com](mailto:maximumcritrate@gmail.com)
